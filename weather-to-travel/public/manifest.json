@@ -1,0 +1,8 @@
+{
+  "short_name": "Weather to Travel",
+  "name": "Weather to Travel: Plan Your Roadtrip",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
